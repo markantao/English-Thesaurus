@@ -1,7 +1,7 @@
 import json
 from difflib import get_close_matches
 
-# JSON File
+
 data = json.load(open("data.json"))
 
 
